@@ -1,0 +1,29 @@
+.search{
+
+    text-align: right;
+}
+.advanced{
+    text-align: right;
+    margin-right: 80px;
+   margin-top: -16.5px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+form{
+    text-align: center;
+    }
+input[type="text"]
+    {
+       border-radius: 20px;
+    }
+input[type="submit"]
+{
+    text-align: center;
+    background-color:rgb(226, 215, 215);
+    color:black;
+    padding: 8px;
+    border:0px;
+
+}
